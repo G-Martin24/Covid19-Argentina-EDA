@@ -60,11 +60,6 @@ bash
 Copiar código
 python -m venv venv
 venv\Scripts\activate  # Windows
-4️⃣ Instalar dependencias (si las hubiera)
-bash
-Copiar código
-pip install -r requirements.txt
-(Si querés, puedo generarte un requirements.txt.)
 
 5️⃣ Ejecutar el script
 bash
