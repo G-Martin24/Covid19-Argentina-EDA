@@ -89,8 +89,6 @@ Estadística descriptiva
 
 Manipulación de datos (pandas)
 
-Visualización (matplotlib / seaborn)
-
 Análisis exploratorio
 
 Limpieza y preparación de datasets reales
